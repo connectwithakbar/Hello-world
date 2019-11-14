@@ -1,2 +1,6 @@
 hey this is new file.
+<<<<<<< HEAD
 Changed this file too.
+=======
+changed
+>>>>>>> testbranch
